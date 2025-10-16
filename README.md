@@ -11,7 +11,7 @@
 
 <picture> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </picture>
 
- ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW5xbTh2enIxaHc5YzNtdHh6Znc0M2F1eGJib3N5eTBuOGNwNWo2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qRcwVv2yEmy0VORK8n/giphy.gif" width = 75px>  </picture> Metodología web +25
+ ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdnNG91amZxZDUydHc2ZTB3bWp4bmw4NDhpbnhlY2dwa3d4YjZtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NMCpTBlTEYbCw/giphy.gif" width = 75px>  </picture> Metodología web +25
 
 <br>
 
@@ -26,11 +26,11 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br><br>
 
-### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDR1ZTRlZnNmY296dTlkdjc4ZmZ3cjE2NmI0dnh2Zmw5anRjcHJzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W2WBS4R2thlXub0vI3/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
+### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTR2MWIyMjRpYjlscGY2MXQwMG04bG5zdTV6dG9heWRsOWdjcXp4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FasLs2XEO5G2A/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
 **Evita la fragmentación de recursos y el caos de buscar en múltiples fuentes. Reúne todo el conocimiento táctico necesario para planificar, ejecutar y documentar auditorías web desde la recon hasta la explotación avanzada, acelerando el flujo de trabajo.**
 <br><br>
 
-### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhtcWZzczNtanl3cHo0eDJ6YXFiMGNnemt3N2psbzE3cmxtdmVzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vuRc3owmolGzQYlhUR/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
+### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2kyenV0bGgxbzd6ZnNrNTI5c3RqZTViaHI4ZzhtbTBrcTA3b3o1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/12J5TZCmhpM5mE/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
 **• Proporciona rutas probadas usadas por los mejores bug hunters.<br><br>
 • Permite diseñar estrategias de ataque completas basadas en estándares globales.<br><br>
 • Facilita la automatización del pensamiento ofensivo, conectando teoría con práctica real.<br><br>
@@ -40,7 +40,7 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBtYzhjYjZld2FxeGx6NTlzYjMwMTV1YmE1dWV5ZnA5bGEwMnl6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YSev84x5uh4eUbKa39/giphy.gif" width = 80px>  </picture> Resumen rápido
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFwN2dveHoyOTBsOGxqZTE3OGJzMXNweTFycW9sbWd6NWo2aWZoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GltC4HZLjJLvq/giphy.gif" width = 80px>  </picture> Resumen rápido
 <br><br>
 
 Tu arsenal definitivo de metodologías, estándares y enfoques modernos para bug bounty, todo centralizado y listo para aplicar en cualquier entorno.<br><br>
@@ -50,7 +50,7 @@ Tu arsenal definitivo de metodologías, estándares y enfoques modernos para bug
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa290ODJmYjVmd3prMnRrN2NkNXBwcmdlZncyZXB2d3dvNTVmejltaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gk3ut9Urw4NkRVaXHb/giphy.gif" width = 80px>  </picture> Metodologías +25 web <br><br>
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdncxdnc3bGYxNXBlMzJrMG9tcmZ2dmx3bndud2xrazZtcWljZmxmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kuWN0iF9BLQKk/giphy.gif" width = 80px>  </picture> Metodologías +25 web <br><br>
 
 
 • <a href="https://www.youtube.com/@NahamSec/search?query=metodologia" target="_blank" rel="noopener">NahamSec</a>
