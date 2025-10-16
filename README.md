@@ -154,6 +154,10 @@ Extra<br>
 
 • <a href="https://medium.com/@khaled.hassan/bugbountyprotip-collection-4a19e5b5b296" target="_blank" rel="noopener">khaled</a><br><br>
 
+
+• 🦅 Aquiles pues mire todas las que tiene 🦅 <br>
+
+
 <br>
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
@@ -164,6 +168,3 @@ Extra<br>
 
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 
-
-
-Aquiles pues mire toda las que tiene -_-<br>
