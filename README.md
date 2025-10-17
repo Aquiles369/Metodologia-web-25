@@ -15,7 +15,7 @@
 
 <br>
 
- **Compilación de más de 25 metodologías ofensivas y estándares de referencia que cubren desde enfoques clásicos (NahamSec, Jason Haddix, HackTricks) hasta guías modernas para APIs, LLMs, CMS, nube y más. Incluye recursos estratégicos, estándares globales (OWASP, OSSTM, MITRE ATT&CK) y aportes extra de expertos, centralizados en un solo punto,<a href="https://www.youtube.com/watch?v=_xKHM4iSx6Y" target="_blank" rel="noopener">demo en mi canal de Youtube</a>.** 
+ **Compilación de más de 25 metodologías ofensivas y estándares de referencia que cubren desde enfoques clásicos (NahamSec, Jason Haddix, HackTricks) hasta guías modernas para APIs, LLMs, CMS, nube y más. Incluye recursos estratégicos, estándares globales (OWASP, OSSTM, MITRE ATT&CK) y aportes extra de expertos, centralizados en un solo punto,<a href="https://www.youtube.com/watch?v=XaLgjIdRRnk" target="_blank" rel="noopener">demo en mi canal de Youtube</a>.** 
 <br><br> 
 
 <p align="center">
